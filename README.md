@@ -1,4 +1,4 @@
-Github link : https://github.com/ivankrstev7/Environmental_Sound_Classification/edit/main/README.md
+Github link : https://github.com/ivankrstev7/Environmental_Sound_Classification/tree/main
 
 # Human Data Analytics Project Repository
 
